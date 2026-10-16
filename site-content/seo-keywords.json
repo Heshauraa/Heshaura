@@ -1,0 +1,87 @@
+{
+  "market": "India",
+  "language": "en-IN",
+  "note": "Editorial keyword targets based on the store's confirmed product scope. Search volumes and ranking difficulty have not been measured. Product claims require verification.",
+  "pages": {
+    "/": {
+      "primary": "handmade bracelets India",
+      "secondary": ["handmade jewellery by Heena", "fashion jewellery India", "unisex bracelets"],
+      "title": "Handmade Bracelets & Fashion Jewellery India | HESHAURA",
+      "description": "Discover handmade bracelets by Heena and fashion jewellery for women and men in India. Explore HESHAURA’s collection preview. Made of Love. Made by Heena.",
+      "heading": "Handmade bracelets, made by Heena.",
+      "intro": "HESHAURA brings together handmade bracelets and everyday fashion jewellery for women and men in India. Explore unisex bracelet styles, rings, necklaces and earrings in our collection preview. Our own handmade bracelets are at the heart of the brand."
+    },
+    "/collections/": {
+      "primary": "fashion jewellery India",
+      "secondary": ["artificial jewellery India", "jewellery for women and men", "handmade bracelets"],
+      "title": "Fashion Jewellery for Women & Men India | HESHAURA",
+      "description": "Explore HESHAURA’s fashion and artificial jewellery collection preview for India: handmade bracelets, rings, necklaces and earrings for women and men.",
+      "h1": "Fashion jewellery for women & men in India",
+      "heading": "Find your everyday jewellery style.",
+      "intro": "Explore fashion and artificial jewellery for women and men, with handmade bracelets at the heart of HESHAURA. Browse rings, necklaces, earrings and unisex styles in our India-focused collection preview."
+    },
+    "/collections/bracelets/": {
+      "primary": "handmade bracelets India",
+      "secondary": ["handmade bracelets for women", "handmade bracelets for men", "unisex handmade bracelets"],
+      "title": "Handmade Bracelets for Women & Men India | HESHAURA",
+      "description": "Explore handmade bracelets by Heena for women and men in India. Discover HESHAURA’s unisex bracelet collection preview and find your everyday style.",
+      "h1": "Handmade bracelets for women & men",
+      "heading": "Handmade by us. Worn your way.",
+      "intro": "We create our own handmade bracelets, with Heena at the heart of HESHAURA. This collection brings together bracelet styles for women, men and anyone who loves an individual finishing touch. Explore our India-focused preview; demo products are clearly labelled."
+    },
+    "/collections/women/": {
+      "primary": "fashion jewellery for women India",
+      "secondary": ["bracelets for women", "women’s fashion rings", "necklaces and earrings for women"],
+      "title": "Fashion Jewellery & Bracelets for Women | HESHAURA India",
+      "description": "Explore bracelets, fashion rings, necklaces and earrings for women in India. Discover HESHAURA by Heena and browse the jewellery collection preview.",
+      "h1": "Fashion jewellery & bracelets for women",
+      "heading": "Everyday jewellery, your own expression.",
+      "intro": "Discover bracelets for women alongside fashion rings, necklaces and earrings in HESHAURA’s collection preview for India. Choose an understated accent or explore a layered jewellery look, with Heena’s handmade bracelet collection at the heart of the brand."
+    },
+    "/collections/men/": {
+      "primary": "bracelets for men India",
+      "secondary": ["fashion jewellery for men", "men’s bracelets", "rings and chains for men"],
+      "title": "Bracelets & Fashion Jewellery for Men India | HESHAURA",
+      "description": "Discover bracelets and fashion jewellery for men in India. Explore HESHAURA’s collection preview of bracelets, rings and chains, including unisex styles.",
+      "h1": "Bracelets & fashion jewellery for men",
+      "heading": "Details that make your everyday look.",
+      "intro": "Explore bracelets for men, fashion rings and chain styles in HESHAURA’s India-focused collection preview. Browse pieces for him and unisex jewellery, with the freedom to wear a single bracelet or create your own combination."
+    },
+    "/collections/unisex/": {
+      "primary": "unisex bracelets India",
+      "secondary": ["unisex jewellery India", "bracelets for everyone", "handmade unisex bracelets"],
+      "title": "Unisex Bracelets & Fashion Jewellery India | HESHAURA",
+      "description": "Explore unisex bracelets and fashion jewellery for women and men in India. Discover HESHAURA by Heena’s collection preview and style pieces your own way.",
+      "h1": "Unisex bracelets & jewellery in India",
+      "heading": "For her. For him. For every you.",
+      "intro": "HESHAURA’s unisex bracelet and jewellery preview brings everyday styles together beyond labels. Explore bracelets, rings and necklaces for women and men in India, then choose the pieces that express your own style."
+    },
+    "/collections/rings/": {
+      "primary": "fashion rings India",
+      "secondary": ["fashion rings for women", "fashion rings for men", "unisex rings"],
+      "title": "Fashion Rings for Women & Men India | HESHAURA",
+      "description": "Explore fashion rings for women and men in India with HESHAURA by Heena. Browse the collection preview for everyday ring styles and unisex looks.",
+      "h1": "Fashion rings for women & men in India",
+      "heading": "A small detail. Your own statement.",
+      "intro": "Browse fashion rings for women and men in HESHAURA’s collection preview for India. Explore everyday ring styles and unisex looks. Check each product’s confirmed material, size and availability before choosing your piece."
+    },
+    "/collections/necklaces/": {
+      "primary": "fashion necklaces India",
+      "secondary": ["fashion chains India", "necklaces for women", "chains for men"],
+      "title": "Fashion Necklaces & Chains India | HESHAURA",
+      "description": "Explore fashion necklaces and chains for women and men in India. Discover everyday necklace styling in HESHAURA by Heena’s collection preview.",
+      "h1": "Fashion necklaces & chains in India",
+      "heading": "Your everyday layer of expression.",
+      "intro": "Discover fashion necklaces and chain styles for women and men in HESHAURA’s collection preview for India. Explore simple accents and layered looks, and check individual product details for confirmed materials, lengths and availability."
+    },
+    "/collections/earrings/": {
+      "primary": "fashion earrings India",
+      "secondary": ["artificial earrings India", "everyday earrings", "earrings for women"],
+      "title": "Fashion & Artificial Earrings India | HESHAURA",
+      "description": "Explore fashion and artificial earrings in India with HESHAURA by Heena. Browse the collection preview for everyday earring styles and jewellery looks.",
+      "h1": "Fashion earrings in India",
+      "heading": "A finishing touch for your everyday.",
+      "intro": "Explore fashion and artificial earrings in HESHAURA’s collection preview for India. Find inspiration for your everyday jewellery look, and check product details for confirmed materials, dimensions and availability."
+    }
+  }
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Private preview: HTML pages carry noindex until the production store launches.

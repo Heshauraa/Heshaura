@@ -1,0 +1,2 @@
+import {admin,body,response,failure,HttpError} from '@/lib/admin';import {checkProvider,checkAll} from '@/lib/provider-check';
+export async function POST(req:Request){try{const user=await admin(req,true),input=await body(req);if(input.provider!==undefined&&!['razorpay','shiprocket'].includes(input.provider))throw new HttpError(400,'Unknown provider.');const results=input.provider?[await checkProvider(input.provider,user.id)]:await checkAll(user.id);return response({results,servicesEnabled:false})}catch(e){return failure(e)}}

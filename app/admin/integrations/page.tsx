@@ -1,0 +1,3 @@
+import {headers} from 'next/headers';import {requireChatGPTUser} from '@/app/chatgpt-auth';import {admin} from '@/lib/admin';import Integrations from './integrations';
+export const dynamic='force-dynamic';
+export default async function Page(){await requireChatGPTUser('/admin/integrations');try{await admin(new Request('https://store.local/admin/integrations',{headers:await headers()}));return <Integrations/>}catch{return <main className="denied"><h1>Integrations</h1><p>Reserved for the store administrator.</p><a href="/signout-with-chatgpt?return_to=%2Fadmin%2Fintegrations" target="_top">Switch account</a></main>}}

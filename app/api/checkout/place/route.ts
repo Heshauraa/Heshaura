@@ -1,0 +1,1 @@
+export async function POST(){return Response.json({error:'Live ordering is not enabled. WhatsApp verification, payments and delivery setup are still pending.',code:'CHECKOUT_NOT_LIVE'},{status:503,headers:{'Cache-Control':'no-store'}})}

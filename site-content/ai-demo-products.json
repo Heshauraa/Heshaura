@@ -1,0 +1,738 @@
+[
+  {
+    "name": "Dome Glow Ring (AI Demo)",
+    "slug": "ai-demo-dome-glow-ring",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Rings",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 49900,
+    "mrp": null,
+    "image": "/assets/ai-demo-rings.png#tile=0",
+    "variants": [
+      {
+        "sku": "HA-AI-RINGS-01",
+        "color": "Gold tone",
+        "size": "Demo size",
+        "stock": 20,
+        "price": 49900,
+        "image": "/assets/ai-demo-rings.png#tile=0"
+      }
+    ],
+    "seo_title": "Dome Glow Ring | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Silver Texture Ring (AI Demo)",
+    "slug": "ai-demo-silver-texture-ring",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Rings",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 54900,
+    "mrp": null,
+    "image": "/assets/ai-demo-rings.png#tile=1",
+    "variants": [
+      {
+        "sku": "HA-AI-RINGS-02",
+        "color": "Silver tone",
+        "size": "Demo size",
+        "stock": 20,
+        "price": 54900,
+        "image": "/assets/ai-demo-rings.png#tile=1"
+      }
+    ],
+    "seo_title": "Silver Texture Ring | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Open Wave Ring (AI Demo)",
+    "slug": "ai-demo-open-wave-ring",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Rings",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 59900,
+    "mrp": null,
+    "image": "/assets/ai-demo-rings.png#tile=2",
+    "variants": [
+      {
+        "sku": "HA-AI-RINGS-03",
+        "color": "Gold tone",
+        "size": "Demo size",
+        "stock": 20,
+        "price": 59900,
+        "image": "/assets/ai-demo-rings.png#tile=2"
+      }
+    ],
+    "seo_title": "Open Wave Ring | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Studio Signet Ring (AI Demo)",
+    "slug": "ai-demo-studio-signet-ring",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Rings",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 69900,
+    "mrp": null,
+    "image": "/assets/ai-demo-rings.png#tile=3",
+    "variants": [
+      {
+        "sku": "HA-AI-RINGS-04",
+        "color": "Silver tone",
+        "size": "Demo size",
+        "stock": 20,
+        "price": 69900,
+        "image": "/assets/ai-demo-rings.png#tile=3"
+      }
+    ],
+    "seo_title": "Studio Signet Ring | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Tiny Star Ring (AI Demo)",
+    "slug": "ai-demo-tiny-star-ring",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Rings",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 44900,
+    "mrp": null,
+    "image": "/assets/ai-demo-rings.png#tile=4",
+    "variants": [
+      {
+        "sku": "HA-AI-RINGS-05",
+        "color": "Gold tone",
+        "size": "Demo size",
+        "stock": 20,
+        "price": 44900,
+        "image": "/assets/ai-demo-rings.png#tile=4"
+      }
+    ],
+    "seo_title": "Tiny Star Ring | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Twist Band Ring (AI Demo)",
+    "slug": "ai-demo-twist-band-ring",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Rings",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 64900,
+    "mrp": null,
+    "image": "/assets/ai-demo-rings.png#tile=5",
+    "variants": [
+      {
+        "sku": "HA-AI-RINGS-06",
+        "color": "Silver tone",
+        "size": "Demo size",
+        "stock": 20,
+        "price": 64900,
+        "image": "/assets/ai-demo-rings.png#tile=5"
+      }
+    ],
+    "seo_title": "Twist Band Ring | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Soft Heart Ring (AI Demo)",
+    "slug": "ai-demo-soft-heart-ring",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Rings",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 54900,
+    "mrp": null,
+    "image": "/assets/ai-demo-rings.png#tile=6",
+    "variants": [
+      {
+        "sku": "HA-AI-RINGS-07",
+        "color": "Rose gold tone",
+        "size": "Demo size",
+        "stock": 20,
+        "price": 54900,
+        "image": "/assets/ai-demo-rings.png#tile=6"
+      }
+    ],
+    "seo_title": "Soft Heart Ring | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Double Line Ring (AI Demo)",
+    "slug": "ai-demo-double-line-ring",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Rings",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 79900,
+    "mrp": null,
+    "image": "/assets/ai-demo-rings.png#tile=7",
+    "variants": [
+      {
+        "sku": "HA-AI-RINGS-08",
+        "color": "Gold tone",
+        "size": "Demo size",
+        "stock": 20,
+        "price": 79900,
+        "image": "/assets/ai-demo-rings.png#tile=7"
+      }
+    ],
+    "seo_title": "Double Line Ring | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Midnight Inlay Ring (AI Demo)",
+    "slug": "ai-demo-midnight-inlay-ring",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Rings",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 74900,
+    "mrp": null,
+    "image": "/assets/ai-demo-rings.png#tile=8",
+    "variants": [
+      {
+        "sku": "HA-AI-RINGS-09",
+        "color": "Silver / black tone",
+        "size": "Demo size",
+        "stock": 20,
+        "price": 74900,
+        "image": "/assets/ai-demo-rings.png#tile=8"
+      }
+    ],
+    "seo_title": "Midnight Inlay Ring | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Rope Detail Ring (AI Demo)",
+    "slug": "ai-demo-rope-detail-ring",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Rings",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 69900,
+    "mrp": null,
+    "image": "/assets/ai-demo-rings.png#tile=9",
+    "variants": [
+      {
+        "sku": "HA-AI-RINGS-10",
+        "color": "Gold tone",
+        "size": "Demo size",
+        "stock": 20,
+        "price": 69900,
+        "image": "/assets/ai-demo-rings.png#tile=9"
+      }
+    ],
+    "seo_title": "Rope Detail Ring | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Everyday Cable Chain (AI Demo)",
+    "slug": "ai-demo-everyday-cable-chain",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Necklaces",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 69900,
+    "mrp": null,
+    "image": "/assets/ai-demo-chains.png#tile=0",
+    "variants": [
+      {
+        "sku": "HA-AI-CHAINS-01",
+        "color": "Gold tone",
+        "size": "Demo length",
+        "stock": 20,
+        "price": 69900,
+        "image": "/assets/ai-demo-chains.png#tile=0"
+      }
+    ],
+    "seo_title": "Everyday Cable Chain | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Street Curb Chain (AI Demo)",
+    "slug": "ai-demo-street-curb-chain",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Necklaces",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 79900,
+    "mrp": null,
+    "image": "/assets/ai-demo-chains.png#tile=1",
+    "variants": [
+      {
+        "sku": "HA-AI-CHAINS-02",
+        "color": "Silver tone",
+        "size": "Demo length",
+        "stock": 20,
+        "price": 79900,
+        "image": "/assets/ai-demo-chains.png#tile=1"
+      }
+    ],
+    "seo_title": "Street Curb Chain | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Paperclip Link Chain (AI Demo)",
+    "slug": "ai-demo-paperclip-link-chain",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Necklaces",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 89900,
+    "mrp": null,
+    "image": "/assets/ai-demo-chains.png#tile=2",
+    "variants": [
+      {
+        "sku": "HA-AI-CHAINS-03",
+        "color": "Gold tone",
+        "size": "Demo length",
+        "stock": 20,
+        "price": 89900,
+        "image": "/assets/ai-demo-chains.png#tile=2"
+      }
+    ],
+    "seo_title": "Paperclip Link Chain | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Twisted Rope Chain (AI Demo)",
+    "slug": "ai-demo-twisted-rope-chain",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Necklaces",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 84900,
+    "mrp": null,
+    "image": "/assets/ai-demo-chains.png#tile=3",
+    "variants": [
+      {
+        "sku": "HA-AI-CHAINS-04",
+        "color": "Silver tone",
+        "size": "Demo length",
+        "stock": 20,
+        "price": 84900,
+        "image": "/assets/ai-demo-chains.png#tile=3"
+      }
+    ],
+    "seo_title": "Twisted Rope Chain | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Fluid Snake Chain (AI Demo)",
+    "slug": "ai-demo-fluid-snake-chain",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Necklaces",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 99900,
+    "mrp": null,
+    "image": "/assets/ai-demo-chains.png#tile=4",
+    "variants": [
+      {
+        "sku": "HA-AI-CHAINS-05",
+        "color": "Gold tone",
+        "size": "Demo length",
+        "stock": 20,
+        "price": 99900,
+        "image": "/assets/ai-demo-chains.png#tile=4"
+      }
+    ],
+    "seo_title": "Fluid Snake Chain | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Minimal Box Chain (AI Demo)",
+    "slug": "ai-demo-minimal-box-chain",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Necklaces",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 74900,
+    "mrp": null,
+    "image": "/assets/ai-demo-chains.png#tile=5",
+    "variants": [
+      {
+        "sku": "HA-AI-CHAINS-06",
+        "color": "Silver tone",
+        "size": "Demo length",
+        "stock": 20,
+        "price": 74900,
+        "image": "/assets/ai-demo-chains.png#tile=5"
+      }
+    ],
+    "seo_title": "Minimal Box Chain | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Tiny Bead Chain (AI Demo)",
+    "slug": "ai-demo-tiny-bead-chain",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Necklaces",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 79900,
+    "mrp": null,
+    "image": "/assets/ai-demo-chains.png#tile=6",
+    "variants": [
+      {
+        "sku": "HA-AI-CHAINS-07",
+        "color": "Gold tone",
+        "size": "Demo length",
+        "stock": 20,
+        "price": 79900,
+        "image": "/assets/ai-demo-chains.png#tile=6"
+      }
+    ],
+    "seo_title": "Tiny Bead Chain | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Satellite Chain (AI Demo)",
+    "slug": "ai-demo-satellite-chain",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Necklaces",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 94900,
+    "mrp": null,
+    "image": "/assets/ai-demo-chains.png#tile=7",
+    "variants": [
+      {
+        "sku": "HA-AI-CHAINS-08",
+        "color": "Rose gold tone",
+        "size": "Demo length",
+        "stock": 20,
+        "price": 94900,
+        "image": "/assets/ai-demo-chains.png#tile=7"
+      }
+    ],
+    "seo_title": "Satellite Chain | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Rhythm Figaro Chain (AI Demo)",
+    "slug": "ai-demo-rhythm-figaro-chain",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Necklaces",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 109900,
+    "mrp": null,
+    "image": "/assets/ai-demo-chains.png#tile=8",
+    "variants": [
+      {
+        "sku": "HA-AI-CHAINS-09",
+        "color": "Silver tone",
+        "size": "Demo length",
+        "stock": 20,
+        "price": 109900,
+        "image": "/assets/ai-demo-chains.png#tile=8"
+      }
+    ],
+    "seo_title": "Rhythm Figaro Chain | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Flat Herringbone Chain (AI Demo)",
+    "slug": "ai-demo-flat-herringbone-chain",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Necklaces",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 119900,
+    "mrp": null,
+    "image": "/assets/ai-demo-chains.png#tile=9",
+    "variants": [
+      {
+        "sku": "HA-AI-CHAINS-10",
+        "color": "Gold tone",
+        "size": "Demo length",
+        "stock": 20,
+        "price": 119900,
+        "image": "/assets/ai-demo-chains.png#tile=9"
+      }
+    ],
+    "seo_title": "Flat Herringbone Chain | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Everyday Hoop Earrings (AI Demo)",
+    "slug": "ai-demo-everyday-hoop-earrings",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Earrings",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 39900,
+    "mrp": null,
+    "image": "/assets/ai-demo-earrings.png#tile=0",
+    "variants": [
+      {
+        "sku": "HA-AI-EARRINGS-01",
+        "color": "Gold tone",
+        "size": "Demo pair",
+        "stock": 20,
+        "price": 39900,
+        "image": "/assets/ai-demo-earrings.png#tile=0"
+      }
+    ],
+    "seo_title": "Everyday Hoop Earrings | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Silver Dot Stud Earrings (AI Demo)",
+    "slug": "ai-demo-silver-dot-stud-earrings",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Earrings",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 29900,
+    "mrp": null,
+    "image": "/assets/ai-demo-earrings.png#tile=1",
+    "variants": [
+      {
+        "sku": "HA-AI-EARRINGS-02",
+        "color": "Silver tone",
+        "size": "Demo pair",
+        "stock": 20,
+        "price": 29900,
+        "image": "/assets/ai-demo-earrings.png#tile=1"
+      }
+    ],
+    "seo_title": "Silver Dot Stud Earrings | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Tiny Star Stud Earrings (AI Demo)",
+    "slug": "ai-demo-tiny-star-stud-earrings",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Earrings",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 34900,
+    "mrp": null,
+    "image": "/assets/ai-demo-earrings.png#tile=2",
+    "variants": [
+      {
+        "sku": "HA-AI-EARRINGS-03",
+        "color": "Gold tone",
+        "size": "Demo pair",
+        "stock": 20,
+        "price": 34900,
+        "image": "/assets/ai-demo-earrings.png#tile=2"
+      }
+    ],
+    "seo_title": "Tiny Star Stud Earrings | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Studio Huggie Earrings (AI Demo)",
+    "slug": "ai-demo-studio-huggie-earrings",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Earrings",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 49900,
+    "mrp": null,
+    "image": "/assets/ai-demo-earrings.png#tile=3",
+    "variants": [
+      {
+        "sku": "HA-AI-EARRINGS-04",
+        "color": "Silver tone",
+        "size": "Demo pair",
+        "stock": 20,
+        "price": 49900,
+        "image": "/assets/ai-demo-earrings.png#tile=3"
+      }
+    ],
+    "seo_title": "Studio Huggie Earrings | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Soft Heart Stud Earrings (AI Demo)",
+    "slug": "ai-demo-soft-heart-stud-earrings",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Earrings",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 44900,
+    "mrp": null,
+    "image": "/assets/ai-demo-earrings.png#tile=4",
+    "variants": [
+      {
+        "sku": "HA-AI-EARRINGS-05",
+        "color": "Rose gold tone",
+        "size": "Demo pair",
+        "stock": 20,
+        "price": 44900,
+        "image": "/assets/ai-demo-earrings.png#tile=4"
+      }
+    ],
+    "seo_title": "Soft Heart Stud Earrings | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Teardrop Earrings (AI Demo)",
+    "slug": "ai-demo-teardrop-earrings",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Earrings",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 59900,
+    "mrp": null,
+    "image": "/assets/ai-demo-earrings.png#tile=5",
+    "variants": [
+      {
+        "sku": "HA-AI-EARRINGS-06",
+        "color": "Gold tone",
+        "size": "Demo pair",
+        "stock": 20,
+        "price": 59900,
+        "image": "/assets/ai-demo-earrings.png#tile=5"
+      }
+    ],
+    "seo_title": "Teardrop Earrings | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Minimal Bar Stud Earrings (AI Demo)",
+    "slug": "ai-demo-minimal-bar-stud-earrings",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Earrings",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 34900,
+    "mrp": null,
+    "image": "/assets/ai-demo-earrings.png#tile=6",
+    "variants": [
+      {
+        "sku": "HA-AI-EARRINGS-07",
+        "color": "Silver tone",
+        "size": "Demo pair",
+        "stock": 20,
+        "price": 34900,
+        "image": "/assets/ai-demo-earrings.png#tile=6"
+      }
+    ],
+    "seo_title": "Minimal Bar Stud Earrings | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Twisted Hoop Earrings (AI Demo)",
+    "slug": "ai-demo-twisted-hoop-earrings",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Earrings",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 69900,
+    "mrp": null,
+    "image": "/assets/ai-demo-earrings.png#tile=7",
+    "variants": [
+      {
+        "sku": "HA-AI-EARRINGS-08",
+        "color": "Gold tone",
+        "size": "Demo pair",
+        "stock": 20,
+        "price": 69900,
+        "image": "/assets/ai-demo-earrings.png#tile=7"
+      }
+    ],
+    "seo_title": "Twisted Hoop Earrings | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Square Stud Earrings (AI Demo)",
+    "slug": "ai-demo-square-stud-earrings",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Earrings",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 39900,
+    "mrp": null,
+    "image": "/assets/ai-demo-earrings.png#tile=8",
+    "variants": [
+      {
+        "sku": "HA-AI-EARRINGS-09",
+        "color": "Silver tone",
+        "size": "Demo pair",
+        "stock": 20,
+        "price": 39900,
+        "image": "/assets/ai-demo-earrings.png#tile=8"
+      }
+    ],
+    "seo_title": "Square Stud Earrings | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Crescent Stud Earrings (AI Demo)",
+    "slug": "ai-demo-crescent-stud-earrings",
+    "description": "AI-generated fashion jewellery concept for checkout testing only. Sample price, colour, size and stock are illustrative; this is not a real product offered for sale. Replace imagery and details before launch.",
+    "category": "Earrings",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 54900,
+    "mrp": null,
+    "image": "/assets/ai-demo-earrings.png#tile=9",
+    "variants": [
+      {
+        "sku": "HA-AI-EARRINGS-10",
+        "color": "Gold tone",
+        "size": "Demo pair",
+        "stock": 20,
+        "price": 54900,
+        "image": "/assets/ai-demo-earrings.png#tile=9"
+      }
+    ],
+    "seo_title": "Crescent Stud Earrings | HESHAURA AI Demo",
+    "seo_description": "Illustrative AI demo product for HESHAURA checkout testing. Not available for real purchase."
+  },
+  {
+    "name": "Everyday Braid Bracelet (AI Demo)",
+    "slug": "everyday-braid-bracelet-ai-demo",
+    "description": "Illustrative handmade-style bracelet demo for testing the store. Sample photo, materials, size, price and stock only; this does not represent a finished HESHAURA product. Replace all details with your own handmade design before selling.",
+    "category": "Bracelets",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 49900,
+    "mrp": null,
+    "image": "/assets/products.png#sprite=2",
+    "variants": [
+      {
+        "sku": "HA-DEMO-EVERYDAY-BRAID-BRACELET",
+        "color": "Sample",
+        "size": "One size (demo)",
+        "stock": 20,
+        "price": 49900,
+        "image": "/assets/products.png#sprite=2"
+      }
+    ],
+    "seo_title": "Everyday Braid Bracelet | HESHAURA",
+    "seo_description": "Handmade bracelet collection preview. Illustrative demo only."
+  },
+  {
+    "name": "Midnight Bead Bracelet (AI Demo)",
+    "slug": "midnight-bead-bracelet-ai-demo",
+    "description": "Illustrative handmade-style bracelet demo for testing the store. Sample photo, materials, size, price and stock only; this does not represent a finished HESHAURA product. Replace all details with your own handmade design before selling.",
+    "category": "Bracelets",
+    "audience": "Unisex",
+    "status": "active",
+    "price": 39900,
+    "mrp": null,
+    "image": "/assets/products.png#sprite=3",
+    "variants": [
+      {
+        "sku": "HA-DEMO-MIDNIGHT-BEAD-BRACELET",
+        "color": "Sample",
+        "size": "One size (demo)",
+        "stock": 20,
+        "price": 39900,
+        "image": "/assets/products.png#sprite=3"
+      }
+    ],
+    "seo_title": "Midnight Bead Bracelet | HESHAURA",
+    "seo_description": "Handmade bracelet collection preview. Illustrative demo only."
+  }
+]

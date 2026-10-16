@@ -1,0 +1,3 @@
+import {headers} from 'next/headers';import {requireChatGPTUser} from '../chatgpt-auth';import {admin} from '@/lib/admin';import Admin from './panel';
+export const dynamic='force-dynamic';
+export default async function Page(){await requireChatGPTUser('/admin');try{const h=await headers();await admin(new Request('https://store.local/admin',{headers:h}));return <Admin/>}catch{return <main className="denied"><h1>Store management</h1><p>Reserved for administrators. Please sign in with the account that owns this Site.</p><a href="/signout-with-chatgpt?return_to=%2Fadmin" target="_top">Switch account</a><p><a href="/">Back to store</a></p></main>}}

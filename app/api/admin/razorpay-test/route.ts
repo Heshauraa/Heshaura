@@ -1,0 +1,5 @@
+import {admin,body,db,response,failure} from '@/lib/admin';
+import {testConfig,saveTestConfig,razorpayRequest} from '@/lib/razorpay-test';
+export async function GET(req:Request){try{await admin(req);const row=await db().prepare("SELECT version,updated_at FROM integrations WHERE provider='razorpay_test'").first<any>();return response({saved:!!row,version:row?.version||0,updatedAt:row?.updated_at,mode:'test',livePaymentsEnabled:false,webhookPath:'/api/webhooks/razorpay-test'});}catch(e){return failure(e)}}
+export async function PUT(req:Request){try{const user=await admin(req,true);await saveTestConfig(await body(req),user.id);return response({ok:true,message:'Test keys encrypted and saved separately. Live keys were not changed.'});}catch(e){return failure(e)}}
+export async function POST(req:Request){try{await admin(req,true);await razorpayRequest(await testConfig(),'orders?count=1&from='+Math.floor(Date.now()/1000));return response({verified:true,mode:'test',message:'Razorpay accepted the Test keys. No payment or provider order was created by this connection check.'});}catch(e){return failure(e)}}

@@ -20,14 +20,14 @@ Use Node.js >=22.13.0 and pnpm 11.25.0. Install with `pnpm install --frozen-lock
 - 32 clearly labelled demo products include two bracelet demos. Replace sample photos, prices, materials and stock before selling.
 - Announcement settings are at `/admin/announcements`; the popup message does not apply a checkout discount.
 - Product photos support an enlarged viewer with 1×–4× zoom and pointer gestures. Browser/device gesture testing remains pending.
-- India-focused SEO is configured in `site-content/seo-keywords.json`. The private preview remains `noindex`.
+- India-focused SEO is configured in `site-content/seo-keywords.json`. The public preview remains `noindex` until launch.
 - WhatsApp customer login is a placeholder until the provider is connected. Demo customer state is browser-local and grants no server privileges.
 - Live payment checkout is disabled. Razorpay test-payment code is separate and requires test credentials. External webhook delivery and end-to-end gateway verification remain pending.
 - Shiprocket has a read-only delivery estimate integration; authentication verification remains unresolved. No live shipment booking is enabled.
 
 ## Hosting and authentication
 
-Pushing this repository does not deploy or move the existing live preview. The source currently uses Sites-managed sign-in and trusted `oai-authenticated-user-*` identity headers. A standalone Cloudflare deployment requires a real authentication layer and header validation before exposing admin routes. Never trust visitor-supplied identity headers. The `.openai/hosting.json` file records the existing Sites identity and bindings; do not create a second project accidentally.
+Pushing this repository does not deploy or move the existing live preview. The storefront preview is publicly viewable without a ChatGPT or Google login; owner administration still requires authenticated access. The source currently uses Sites-managed sign-in and trusted `oai-authenticated-user-*` identity headers. A standalone Cloudflare deployment requires a real authentication layer and header validation before exposing admin routes. Never trust visitor-supplied identity headers. The `.openai/hosting.json` file records the existing Sites identity and bindings; do not create a second project accidentally.
 
 ## Secrets and data
 
