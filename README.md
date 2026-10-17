@@ -16,6 +16,8 @@ Use Node.js >=22.13.0 and pnpm 11.25.0. Install with `pnpm install --frozen-lock
 
 ## Current status
 
+- Visible hero/headline/scroll animations and an admin-editable glowing scrolling line. Ticker text, speed and visibility are controlled independently of the popup at `/admin/announcements`; visitors can pause motion.
+
 - Signature homepage design: editorial hero, curved collection cards and an interactive For Her / For Him / Together style section.
 
 - Products and variants, inventory, owner administration and test orders are implemented.
@@ -39,4 +41,4 @@ Real API secrets, the encryption master key, provider credentials, runtime datab
 
 The application build, TypeScript check and relevant tests passed in the source workspace. Tests under `tests/` cover product access, checkout quotes, integration protection, demo imports, announcements, SEO and zoom calculations. Some integration tests reference the workspace's installed Miniflare package path; adapt that path for another installation. Browser visual and mobile gesture checks are still required.
 
-Source snapshot: `abe51a8be3e0921bfbd3cc6d7bcbbe862e4da78b`.
+Source snapshot: `b94fddae061ccce95b2621be289a137c1a4afcc3`.
