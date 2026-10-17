@@ -16,6 +16,8 @@ Use Node.js >=22.13.0 and pnpm 11.25.0. Install with `pnpm install --frozen-lock
 
 ## Current status
 
+- Cinematic chapter transitions, animated headline accent and refined reading hierarchy are applied on the homepage, with reduced-motion and pause support.
+
 - Creator video slots and WhatsApp enquiry links are at the bottom of the homepage. Manage up to 6 videos and cover uploads at `/admin/creator-videos`; social videos open on their platform and direct MP4/WebM links play on click. Empty slots are clearly labelled. No real creator videos have been supplied yet.
 - Storefront and account typography uses Cormorant Garamond headings with Outfit body text.
 
@@ -44,4 +46,4 @@ Real API secrets, the encryption master key, provider credentials, runtime datab
 
 The application build, TypeScript check and relevant tests passed in the source workspace. Tests under `tests/` cover product access, checkout quotes, integration protection, demo imports, announcements, SEO and zoom calculations. Some integration tests reference the workspace's installed Miniflare package path; adapt that path for another installation. Browser visual and mobile gesture checks are still required.
 
-Source snapshot: `5b15d2ad90cf382a4d5af1d37117b2819f6cbd12`.
+Source snapshot: `8d8c696b26090d53ea11494f97b3200c81f26619`.
