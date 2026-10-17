@@ -16,6 +16,8 @@ Use Node.js >=22.13.0 and pnpm 11.25.0. Install with `pnpm install --frozen-lock
 
 ## Current status
 
+- Signature homepage design: editorial hero, curved collection cards and an interactive For Her / For Him / Together style section.
+
 - Products and variants, inventory, owner administration and test orders are implemented.
 - 32 clearly labelled demo products include two bracelet demos. Replace sample photos, prices, materials and stock before selling.
 - Announcement settings are at `/admin/announcements`; the popup message does not apply a checkout discount.
@@ -37,4 +39,4 @@ Real API secrets, the encryption master key, provider credentials, runtime datab
 
 The application build, TypeScript check and relevant tests passed in the source workspace. Tests under `tests/` cover product access, checkout quotes, integration protection, demo imports, announcements, SEO and zoom calculations. Some integration tests reference the workspace's installed Miniflare package path; adapt that path for another installation. Browser visual and mobile gesture checks are still required.
 
-Source snapshot: `53bd32f53697f725773b9643703f89ee169b39d7`.
+Source snapshot: `abe51a8be3e0921bfbd3cc6d7bcbbe862e4da78b`.

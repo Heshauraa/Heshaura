@@ -35,5 +35,6 @@ export async function GET(req:Request){try{const path=new URL(req.url).pathname.
  html=html.replaceAll('Checkout is not enabled in this preview.</p>','Checkout is not enabled in this preview.</p><p class="fine"><a href="/policies/refund-policy">7-Day Return & Refund Policy</a> · <a href="/contact">Contact us</a></p>');
 
  html=html.replace('onclick="showToast(\'This is a preview. Checkout will open after launch setup.\')"','onclick="location.href=\'/checkout\'"').replace('Checkout · Coming soon','Checkout preview →');
+ if(path!=='/'){html=html.replace('class="haSignature"','');html=html.replace(/<section class="signatureStudio"[\s\S]*?<\/section>/,'').replace(/<div class="signatureIntro">[\s\S]*?<\/p><\/div>/,'').replace(/<div class="signatureFooterMark"[\s\S]*?<\/div>/,'')}
  html=applyStoreSeo(html,path,new URL(req.url).origin,row);
  return new Response(html,{headers:{'Content-Type':'text/html; charset=utf-8','Cache-Control':'no-store','X-Content-Type-Options':'nosniff','X-Robots-Tag':'noindex, follow'}})}catch(e){console.error('Storefront unavailable',e);return new Response('The store is temporarily unavailable. Please try again shortly.',{status:503})}}
